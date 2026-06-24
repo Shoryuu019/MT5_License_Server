@@ -4,23 +4,17 @@
     {
       "account": 102373673,
       "status": "Active",
-      "expiry": "PERMANENT",
-      "ea": "EAScalpingGrid_V1.0",
-      "name": "Shoryuu"
+      "expiry": "PERMANENT"
     },
     {
       "account": 433792089,
       "status": "Active",
-      "expiry": "PERMANENT",
-      "ea": "EAScalpingGrid_V1.0",
-      "name": "Shoryuu 2"
+      "expiry": "PERMANENT"
     },
     {
       "account": 229015599,
       "status": "Active",
-      "expiry": "2026-07-31",
-      "ea": "EAScalpingGrid_V1.0",
-      "name": "Pandu"
+      "expiry": "2026-07-31"
     }
   ]
 }
