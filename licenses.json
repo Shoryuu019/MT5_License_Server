@@ -1,6 +1,8 @@
 {
-  "433792089": {
-    "status": "Active",
-    "expiry": "PERMANENT"
+  "licenses": {
+    "433792089": {
+      "status": "Active",
+      "expiry": "PERMANENT"
+    }
   }
 }
