@@ -2,21 +2,21 @@
   "version": "1.0",
   "licenses": [
     {
-      "account":102373673,
+      "account": 102373673,
       "status": "active",
       "expiry": "PERMANENT",
       "ea": "EAScalpingGrid_V1.0",
       "name": "Shoryuu"
     },
     {
-      "account":433792089,
+      "account": 433792089,
       "status": "active",
       "expiry": "PERMANENT",
       "ea": "EAScalpingGrid_V1.0",
       "name": "Shoryuu 2"
     },
     {
-      "account":229015599,
+      "account": 229015599,
       "status": "active",
       "expiry": "2026-07-31",
       "ea": "EAScalpingGrid_V1.0",
